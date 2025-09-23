@@ -111,19 +111,15 @@ data-warehouse-project/
 ```
 
 ---
-
-## ☕ Stay Connected
-
-Let's stay in touch! Feel free to connect with me on the following platform:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gehad-hani-36602a261)
-
----
-
 ## 🌟 About Me
 
-Hi there! I'm **Gehad Hany Elsayed**, a **Computer and Data Science graduate from Alexandria University**, passionate about **Data Engineering** and building modern data solutions!
+Hi there! I'm **Gehad Hany Elsayed**, a Computer and Data Science graduate from Alexandria University.  
+I’m passionate about **Data Engineering**, **ETL pipelines**, and **modern data solutions**.  
+I enjoy designing data architectures, building scalable pipelines, and transforming raw data into actionable insights.  
 
-Let's stay in touch! Feel free to connect with me on LinkedIn:
-[www.linkedin.com/in/gehad-hani-36602a261](https://www.linkedin.com/in/gehad-hani-36602a261)
+Let’s connect and share ideas!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gehad-hani-36602a261)  
+
+
 
